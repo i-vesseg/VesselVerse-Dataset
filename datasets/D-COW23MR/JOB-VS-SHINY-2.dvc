@@ -1,0 +1,6 @@
+outs:
+- md5: 604fdd1f93f84aacac8f898bfe852bec.dir
+  size: 4656099
+  nfiles: 6
+  hash: md5
+  path: JOB-VS-SHINY-2

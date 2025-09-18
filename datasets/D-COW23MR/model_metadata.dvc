@@ -1,0 +1,6 @@
+outs:
+- md5: 112e1c3caefe0d1c923fcf83253d6aa3.dir
+  size: 51203
+  nfiles: 11
+  hash: md5
+  path: model_metadata

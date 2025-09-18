@@ -1,0 +1,6 @@
+outs:
+- md5: d0c9c5f16775912752cfe5ae2fff223a.dir
+  size: 1193146
+  nfiles: 3
+  hash: md5
+  path: JOB-VS

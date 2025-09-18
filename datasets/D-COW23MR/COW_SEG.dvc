@@ -1,0 +1,6 @@
+outs:
+- md5: cba0dda763a3593236387e2710524614.dir
+  size: 660043
+  nfiles: 3
+  hash: md5
+  path: COW_SEG

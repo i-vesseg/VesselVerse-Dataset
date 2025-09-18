@@ -1,0 +1,58 @@
+# Python
+__pycache__/
+*.py[cod]
+*.class
+*.so
+.Python
+venv/
+.env
+*.sql
+
+# Data directories (will be managed by DVC)
+#datasets/
+# */IXI_TOT/
+# */COW_TOT/
+
+# */metadata/
+# */model_metadata/
+# */metadata_expert_val/
+
+# */STAPLE/
+# */STAPLE_base/
+
+# */StochasticAL/
+# */nnUNet/
+# */A2V/
+# */JOB-VS/
+# */JOB-VS-SHINY-1/
+# */JOB-VS-SHINY-2/
+# */Filtering/
+
+# */COW_SEG/
+
+# */ExpertAnnotations/
+# */ExpertVAL
+
+*.nii.gz
+*.json
+
+# IDE
+.vscode/
+.idea/
+
+# DVC
+.dvc/config
+.dvc/tmp
+.dvc/cache
+clean/
+
+# Config
+metrics/
+config.sh
+scripts/activate_owner_mode.sh
+scripts/restart_repo.sh
+
+# Exclude all the .nii files (recursively)
+**/*.nii
+**/*.nii.gz
+
