@@ -6,6 +6,14 @@
 
 This repository contains the complete collection of multi-expert brain vessel annotations from the VesselVerse dataset, managed through Data Version Control (DVC) for reproducible and collaborative vessel segmentation research. Following the methodology presented in "VesselVerse: A Dataset and Collaborative Framework for Vessel Annotation" (MICCAI 2025), this repository implements a comprehensive annotation management system with version control, consensus generation, and quality assurance mechanisms.
 
+## Data Access
+
+We've recently updated our distribution process to better serve the research community. The dataset is now released upon completion of a request form rather than being directly downloadable. This approach helps us understand how VesselVerse is being used and ensures proper acknowledgment in publications.
+
+**To request access:** Please send an email to Maria A. Zuluaga at [maria.zuluaga@eurecom.fr](mailto:maria.zuluaga@eurecom.fr) with:
+- Your name and institutional affiliation
+- A brief description of your intended use
+
 ## Repository Contents
 
 ### Annotation Collection
@@ -160,6 +168,7 @@ This work is supported by:
 
 For questions about annotations, data access, or collaboration opportunities:
 - **Primary Contact**: Daniele Falcetta (daniele.falcetta@eurecom.fr) - Maria A. Zuluaga (maria.zuluaga@eurecom.fr)
+- **Data Access**: Maria A. Zuluaga (maria.zuluaga@eurecom.fr)
 - **Technical Support**: Daniele Falcetta (daniele.falcetta@eurecom.fr)
 - **Project Website**: https://i-vesseg.github.io/vesselverse/
 
